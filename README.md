@@ -16,6 +16,7 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
 
 ⚽ Fora do trabalho, sou **Botafoguense**, pratico **jiu-jitsu** e tenho a **música** como parte essencial do meu dia a dia. Gosto de buscar conexões entre tecnologia e o que realmente movimenta a minha vida.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Linguagens atual](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds2&layout=compact&theme=tokyonight)
+![Top Linguagens perfil antigo](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds&layout=compact&theme=tokyonight)
 
 <!-- Você pode adicionar badges, links para projetos, redes sociais etc abaixo -->
