@@ -39,16 +39,6 @@ Obs.: Precisei criar este novo cantinho no GitHub porque acabei perdendo as reco
 - [lol-stats](https://github.com/cadusds/lol-stats): coleta e análise de partidas de League of Legends.
 - [busca-ceps](https://github.com/cadusds/busca-ceps): serviço simples para consulta de CEPs via API.
 
-```python
-"""
-    cartolafc
-    ~~~~~~~~~
-
-    Uma API em Python para o Cartola FC.
-"""
-from .api import Api
-```
-
 Essa bagagem com bibliotecas e pipelines anteriores inspira meu trabalho atual, reforçando boas práticas de integração de APIs, automação e análise de dados.
 
 ![Cadu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadusds2&show_icons=true&theme=tokyonight)
