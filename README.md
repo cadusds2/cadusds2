@@ -28,6 +28,7 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
   Ferramentas de controle de estoque, finanças e atendimento para pequenos empreendedores.
 
 ## Perfil Antigo
+![Seguidores](https://img.shields.io/github/followers/cadusds?style=social) ![Estrelas](https://img.shields.io/github/stars/cadusds2?style=social)
 
 Obs.: Precisei criar este novo cantinho no GitHub porque acabei perdendo as recovery keys da minha conta antiga. Se quiser ver o que eu já vinha construindo, dá uma olhada no meu perfil anterior [aqui](https://github.com/cadusds).
 
@@ -50,4 +51,5 @@ from .api import Api
 
 Essa bagagem com bibliotecas e pipelines anteriores inspira meu trabalho atual, reforçando boas práticas de integração de APIs, automação e análise de dados.
 
+![Cadu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadusds2&show_icons=true&theme=tokyonight)
 ![Top Linguagens perfil antigo](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds&layout=compact&theme=tokyonight)
