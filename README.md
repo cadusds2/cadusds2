@@ -17,6 +17,8 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
 ⚽ Fora do trabalho, sou **Botafoguense**, pratico **jiu-jitsu** e tenho a **música** como parte essencial do meu dia a dia. Gosto de buscar conexões entre tecnologia e o que realmente movimenta a minha vida.
 
 # Top linguagens mais utilizadas
+
+Obs.: Precisei criar este novo cantinho no GitHub porque acabei perdendo as recovery keys da minha conta antiga. Se quiser ver o que eu já vinha construindo, dá uma olhada no meu perfil anterior [aqui](https://github.com/cadusds).
 ## Perfil atual:
 ![Top Linguagens atual](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds2&layout=compact&theme=tokyonight)
 ## Perfil antigo:
