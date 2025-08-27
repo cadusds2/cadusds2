@@ -31,4 +31,23 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
 
 Obs.: Precisei criar este novo cantinho no GitHub porque acabei perdendo as recovery keys da minha conta antiga. Se quiser ver o que eu já vinha construindo, dá uma olhada no meu perfil anterior [aqui](https://github.com/cadusds).
 
+### Principais Projetos
+
+- [python-cartolafc](https://github.com/cadusds/python-cartolafc): biblioteca em Python para acessar dados do Cartola FC.
+- [datapipeline-with-rabbitmq](https://github.com/cadusds/datapipeline-with-rabbitmq): pipeline de dados assíncrono usando RabbitMQ.
+- [lol-stats](https://github.com/cadusds/lol-stats): coleta e análise de partidas de League of Legends.
+- [busca-ceps](https://github.com/cadusds/busca-ceps): serviço simples para consulta de CEPs via API.
+
+```python
+"""
+    cartolafc
+    ~~~~~~~~~
+
+    Uma API em Python para o Cartola FC.
+"""
+from .api import Api
+```
+
+Essa bagagem com bibliotecas e pipelines anteriores inspira meu trabalho atual, reforçando boas práticas de integração de APIs, automação e análise de dados.
+
 ![Top Linguagens perfil antigo](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds&layout=compact&theme=tokyonight)
