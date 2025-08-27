@@ -10,13 +10,20 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
 
 ⚽ Fora do trabalho, sou **Botafoguense**, pratico **jiu-jitsu** e tenho a **música** como parte essencial do meu dia a dia. Gosto de buscar conexões entre tecnologia e o que realmente movimenta a minha vida.
 
-# Perfil Atual
+## Índice
+
+- [Perfil Atual](#perfil-atual)
+  - [Projetos Ativos](#projetos-ativos)
+- [Perfil Antigo](#perfil-antigo)
+  - [Principais Projetos](#principais-projetos)
+
+## Perfil Atual
 
 ![Seguidores](https://img.shields.io/github/followers/cadusds2?style=social) ![Estrelas](https://img.shields.io/github/stars/cadusds2?style=social)
 
-![Cadu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadusds2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds2&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=cadusds2&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cadusds2&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds2&layout=compact&theme=tokyonight)
+![Sequência no GitHub](https://streak-stats.demolab.com?user=cadusds2&theme=tokyonight)
 
 ### Projetos Ativos
 
@@ -28,9 +35,13 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
   Ferramentas de controle de estoque, finanças e atendimento para pequenos empreendedores.
 
 ## Perfil Antigo
-![Seguidores](https://img.shields.io/github/followers/cadusds?style=social) ![Estrelas](https://img.shields.io/github/stars/cadusds2?style=social)
+
+![Seguidores](https://img.shields.io/github/followers/cadusds?style=social) ![Estrelas](https://img.shields.io/github/stars/cadusds?style=social)
 
 Obs.: Precisei criar este novo cantinho no GitHub porque acabei perdendo as recovery keys da minha conta antiga. Se quiser ver o que eu já vinha construindo, dá uma olhada no meu perfil anterior [aqui](https://github.com/cadusds).
+
+![Estatísticas do GitHub perfil antigo](https://github-readme-stats.vercel.app/api?username=cadusds&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas perfil antigo](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds&layout=compact&theme=tokyonight)
 
 ### Principais Projetos
 
@@ -40,6 +51,3 @@ Obs.: Precisei criar este novo cantinho no GitHub porque acabei perdendo as reco
 - [busca-ceps](https://github.com/cadusds/busca-ceps): serviço simples para consulta de CEPs via API.
 
 Essa bagagem com bibliotecas e pipelines anteriores inspira meu trabalho atual, reforçando boas práticas de integração de APIs, automação e análise de dados.
-
-![Cadu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadusds2&show_icons=true&theme=tokyonight)
-![Top Linguagens perfil antigo](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds&layout=compact&theme=tokyonight)
