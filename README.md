@@ -23,5 +23,5 @@ Sou o Carlos Eduardo (Cadu), engenheiro de dados na GFT, com foco no desenvolvim
 ![Top Linguagens perfil antigo](https://github-readme-stats.vercel.app/api/top-langs/?username=cadusds&layout=compact&theme=tokyonight)
 
 # Contribuições
-![GitHub Streak](https://streak-stats.demolab.com?user=cadusds2&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=cadusds&theme=tokyonight)
 
